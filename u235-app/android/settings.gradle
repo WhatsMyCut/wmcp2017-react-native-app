@@ -1,0 +1,3 @@
+rootProject.name = 'u235'
+
+include ':app'
